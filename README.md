@@ -8,14 +8,17 @@ ARQUITECTURA INTERNA
 
 El proyecto sigue estructura por capas:
 
+```
 src/main/java/daos/tp/centroasistencias/
-    ├── entidades/
-    ├── dto/
-    ├── repositorios/
-    ├── servicios/
-    │       ├── impl/
-    ├── controladores/
-    ├── excepciones/
+├── entidades/
+├── dto/
+├── repositorios/
+├── servicios/
+│   └── impl/
+├── controladores/
+└── excepciones/
+```
+
 
 
     
