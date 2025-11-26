@@ -32,7 +32,7 @@ src/main/java/daos/tp/centroasistencias/
 
 ---------------------------------------------------------
 INTEGRANTES: 
-Casalaspro, Pablo
-Defranchi, Santiago
-Méndez, Guillermo
-Méndez, Mónica Natalia
+* Casalaspro, Pablo
+* Defranchi, Santiago
+* Méndez, Guillermo
+* Méndez, Mónica Natalia
